@@ -1,6 +1,6 @@
 # Shoppingpoint Shop
 
-A new Flutter project.
+[Shoppingpointshop](https://shoppingpointshop.com/).
 
 # Developed By
 [Tarpara Technologies](https://tarparatechnologies.com/).
