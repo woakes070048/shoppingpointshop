@@ -1,4 +1,4 @@
-# shoppingpointshop
+# Shoppingpoint Shop
 
 A new Flutter project.
 
